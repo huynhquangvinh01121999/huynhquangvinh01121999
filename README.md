@@ -5,7 +5,7 @@
 <p>Contact with me by email: <b>huynhquangvinh01121999@gmail.com</b></p>
 
 <h2>My knowledge</h2>
-<h3> > Top competently &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<h3> > Top competently &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 > Other Languages ​​used &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 > State Management
 </h3> 
@@ -17,7 +17,7 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-informational" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-blueviolet" />
-  <img alt="js" src="https://img.shields.io/badge/-Javascript-yellow" />&ensp;&ensp;&ensp;&ensp;&ensp;
+  <img alt="js" src="https://img.shields.io/badge/-Javascript-yellow" />&ensp;&ensp;&ensp;
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-critical" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="angularjs" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -38,10 +38,10 @@
   <img alt="Sqlite3" src="https://img.shields.io/badge/-Sqlite3-red" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <img alt="SOCKET" src="https://img.shields.io/badge/-SOCKET.IO-black" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
-  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-blue" />
   <img alt="Semantic " src="https://img.shields.io/badge/-Semantic-blueviolet" />
 </p>
