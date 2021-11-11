@@ -21,7 +21,7 @@
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-critical" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="angularjs" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="knex" src="https://img.shields.io/badge/-Knex-orange" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  <img alt="knex" src="https://img.shields.io/badge/-Knex-orange" />
   <img alt="React Hook" src="https://img.shields.io/badge/-Hook-blue" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-red" />
