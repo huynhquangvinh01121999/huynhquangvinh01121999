@@ -23,7 +23,7 @@
   <img alt="angularjs" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </h4> 
 
-<h3>
+<h4>
 > State Management: 
   <img alt="knex" src="https://img.shields.io/badge/-Knex-orange" />
   <img alt="React Hook" src="https://img.shields.io/badge/-Hook-blue" />
