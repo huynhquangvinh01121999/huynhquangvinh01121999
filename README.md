@@ -23,7 +23,7 @@
   <img alt="angularjs" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </h4> 
 
-<h4>
+<h3>
 > State Management: 
   <img alt="knex" src="https://img.shields.io/badge/-Knex-orange" />
   <img alt="React Hook" src="https://img.shields.io/badge/-Hook-blue" />
@@ -35,25 +35,25 @@
   
 </p>
 
-<h3> > Database:
+<h4> > Database:
   <img alt="SQLserver" src="https://img.shields.io/badge/-SQL%20Server-yellow" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-yellowgreen" />
   <img alt="Sqlite3" src="https://img.shields.io/badge/-Sqlite3-red" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</h3>
+</h4>
 
-<h3> > Realtime:
+<h4> > Realtime:
   <img alt="SOCKET" src="https://img.shields.io/badge/-SOCKET.IO-black" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
-</h3>
+</h4>
 
-<h3> > Library UI Design:
+<h4> > Library UI Design:
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-blue" />
   <img alt="Semantic " src="https://img.shields.io/badge/-Semantic-blueviolet" />
-</h3>
+</h4>
 
-<h3> > CI-CD:
+<h4> > CI-CD:
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-brightgreen" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
@@ -61,7 +61,7 @@
   <img alt="Atlas" src="https://img.shields.io/badge/-Atlas-green" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-blue" />
   <img alt="Bitbutket" src="https://img.shields.io/badge/-Bitbutket-blueviolet" />
-</h3>
+</h4>
 ________________________________________________________________________________________________________________
 <h2>MY PROJECTS</h2>
 <h3><b>Social Network App</b></h3>
