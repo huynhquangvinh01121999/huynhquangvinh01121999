@@ -3,6 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Huynh Quang Vinh, Fullstack developer from <b>Ho Chi Minh City, Viet Nam</b>
 <p>Contact with me by email: <b>huynhquangvinh01121999@gmail.com</b></p>
+<p>My profile: <b>https://huynhquangvinh01121999.github.io/myprofile/</b></p>
 
 <h2>My knowledge</h2>
 
