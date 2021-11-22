@@ -65,12 +65,15 @@
 </h4>
 ________________________________________________________________________________________________________________
 <h2>MY PROJECTS</h2>
-<h3><b>Social Network App</b></h3>
+<h3><b>Social Network App:</b></h3>
 <p><b>Server: </b>https://github.com/huynhquangvinh01121999/Server_LifeFace-Social</p>
 <p><b>Client: </b>https://github.com/huynhquangvinh01121999/Client_LifeFace-Social</p>
 <h3><b>Messenger Chat Room App: </b></h3><p>https://github.com/huynhquangvinh01121999/Messenger-Chat-Room</p>
 <h3><b>Listen To Music App: </b></h3><p>https://github.com/huynhquangvinh01121999/Music-Power-App</p>
-<h3><b>Chat Together App</b></h3>
+<h3><b>Chat Together App:</b></h3>
 <p><b>Server: </b>https://github.com/huynhquangvinh01121999/Server_ChatTogether</p>
 <p><b>Client: </b>https://github.com/huynhquangvinh01121999/Client_ChatTogether</p>
-<h3><b>Software Technology Project</b></h3><p>https://github.com/huynhquangvinh01121999/ST-Subject</p>
+<h3><b>Software Technology Project:</b></h3><p>https://github.com/huynhquangvinh01121999/ST-Subject</p>
+<h3><b>FTP_Simulator - Java Network Programming Project:</b></h3>
+<p><b>Server: </b>https://github.com/huynhquangvinh01121999/FTPSimulator_Server</p>
+<p><b>Client: </b>https://github.com/huynhquangvinh01121999/FTPSimulator_Client</p>
