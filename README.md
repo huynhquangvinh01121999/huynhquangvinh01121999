@@ -6,7 +6,7 @@
 <p>My portfolio: <b>https://huynhquangvinh01121999.github.io/myprofile/</b></p>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=radical&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=radical"/>
 </div>
 
