@@ -5,56 +5,53 @@
 <p>Contact with me by email: <b>huynhquangvinh01121999@gmail.com</b></p>
 <p>My portfolio: <b>https://huynhquangvinh01121999.github.io/myprofile/</b></p>
 
-<h2>My knowledge</h2>
+<h2>Skill & Programming Language</h2>
 
-<h4> > Top competently: 
-  <img alt=".NETCore" src="https://img.shields.io/badge/-.NET%20Core-blue" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-informational" />
+<h3>FrontEnd: </h3> 
+<div>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-blueviolet" />
   <img alt="js" src="https://img.shields.io/badge/-Javascript-yellow" />
-</h4> 
-
-<h4>
-> Other Languages ​​used: 
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-critical" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="angularjs" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="knex" src="https://img.shields.io/badge/-Knex-orange" />
-</h4> 
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+</div>
 
-<h4>
-> State Management: 
-  <img alt="React Hook" src="https://img.shields.io/badge/-Hook-blue" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-red" />
-</h4> 
+<h3>BackEnd: </h3> 
+<div>
+  <img alt=".NETCore" src="https://img.shields.io/badge/-.NET%20Core-blue" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-informational" />
+</div>
 
-<p>
-  
-</p>
-
-<h4> > Database:
+<h3>Database: </h3> 
+<div>
   <img alt="SQLserver" src="https://img.shields.io/badge/-SQL%20Server-yellow" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-yellowgreen" />
   <img alt="Sqlite3" src="https://img.shields.io/badge/-Sqlite3-red" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+</div>
+
+<div>
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999) -->
+https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true
+</div>
+
+<!-- <h4>
+> Other Languages ​​used: 
+  <img alt="knex" src="https://img.shields.io/badge/-Knex-orange" />
+</h4> 
+
+ <h4>
+> State Management: 
+  <img alt="React Hook" src="https://img.shields.io/badge/-Hook-blue" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-red" />
 </h4>
 
-<h4> > Realtime:
-  <img alt="SOCKET" src="https://img.shields.io/badge/-SOCKET.IO-black" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
-</h4>
-
-<h4> > Library UI Design:
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-blue" />
-  <img alt="Semantic " src="https://img.shields.io/badge/-Semantic-blueviolet" />
-</h4>
-
-<h4> > CI-CD:
+ <h4> > CI-CD:
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-brightgreen" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
@@ -62,7 +59,7 @@
   <img alt="Atlas" src="https://img.shields.io/badge/-Atlas-green" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-blue" />
   <img alt="Bitbutket" src="https://img.shields.io/badge/-Bitbutket-blueviolet" />
-</h4>
+</h4> -->
 ________________________________________________________________________________________________________________
 <h2>MY PROJECTS</h2>
 <h3><b>Social Network App:</b></h3>
