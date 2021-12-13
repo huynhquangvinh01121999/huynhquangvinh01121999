@@ -5,6 +5,11 @@
 <p>Contact with me by email: <b>huynhquangvinh01121999@gmail.com</b></p>
 <p>My portfolio: <b>https://huynhquangvinh01121999.github.io/myprofile/</b></p>
 
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=radical"/>
+</div>
+
 <h2>Skill & Programming Language</h2>
 
 <h3>FrontEnd: </h3> 
@@ -34,11 +39,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </div>
 
-<div>
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999) -->
-https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true
-</div>
-
 <!-- <h4>
 > Other Languages ​​used: 
   <img alt="knex" src="https://img.shields.io/badge/-Knex-orange" />
@@ -60,7 +60,7 @@ https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-blue" />
   <img alt="Bitbutket" src="https://img.shields.io/badge/-Bitbutket-blueviolet" />
 </h4> -->
-________________________________________________________________________________________________________________
+
 <h2>MY PROJECTS</h2>
 <h3><b>Social Network App:</b></h3>
 <p><b>Server: </b>https://github.com/huynhquangvinh01121999/Server_LifeFace-Social</p>
