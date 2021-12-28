@@ -1,14 +1,16 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Thanks for visiting.</h1>
+<h2>
+<!--   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  -->
+  Hi there 👋</h2>
 
 
-<p>Welcome to my page! </br> I'm Huynh Quang Vinh, Fullstack developer from <b>Ho Chi Minh City, Viet Nam</b>
+<p>My name is Huynh Quang Vinh and I'm fullstack developer. I'm come from <b>Ho Chi Minh City, Viet Nam</b>
 <p>Contact with me by email: <b>huynhquangvinh01121999@gmail.com</b></p>
 <p>My portfolio: <b>https://huynhquangvinh01121999.github.io/myprofile/</b></p>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=radical&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=radical"/>
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=tokyonight"/>
+</p>
 
 <h2>Skill & Programming Language</h2>
 
