@@ -7,10 +7,10 @@
 <p>Contact with me by email: <b>huynhquangvinh01121999@gmail.com</b></p>
 <p>My portfolio: <b>https://huynhquangvinh01121999.github.io/myprofile/</b></p>
 
-<p align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=tokyonight"/>
-</p>
+</div>
 
 <h2>Skill & Programming Language</h2>
 
