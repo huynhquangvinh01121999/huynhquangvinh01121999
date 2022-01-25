@@ -6,16 +6,16 @@
 **Frontend 📱**</br>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-blueviolet" />
-  <img alt="js" src="https://img.shields.io/badge/-Javascript-yellow" />
+  <img alt="js" src="https://img.shields.io/badge/Javascript-yellow.svg?&style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-critical" />
+  <img alt="NextJs" src="https://img.shields.io/badge/NextJS-black.svg?&style=flat-square&logo=next.js&logoColor=white" />
   <img alt="angularjs" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
 **Backend 🛢**</br>
   <img alt=".NETCore" src="https://img.shields.io/badge/-.NET%20Core-blue" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-informational" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007ACC.svg?&style=flat-square&logo=java&logoColor=white" />
 
 **Database 🛢**</br>
   <img alt="SQLserver" src="https://img.shields.io/badge/-SQL%20Server-yellow" />
@@ -73,6 +73,7 @@
 
 <p align="center"><i >Connect with me 🚀</i></p>
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCtPMSuy0lIQ-UwKt1y-_Odg" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtPMSuy0lIQ-UwKt1y-_Odg?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/profile.php?id=100005918238295" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.youtube.com/channel/UCtPMSuy0lIQ-UwKt1y-_Odg" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtPMSuy0lIQ-UwKt1y-_Odg?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square"></a>
+  <a href="https://www.facebook.com/profile.php?id=100005918238295" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white"></a>
+  <a href="https://google.com/+huynhquangvinh01121999" target="_blank"><img src="https://img.shields.io/badge/Email-red.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
