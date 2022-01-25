@@ -22,7 +22,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-yellowgreen" />
   <img alt="Sqlite3" src="https://img.shields.io/badge/-Sqlite3-red" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 <!-- <h4>
 > Other Languages ​​used: 
@@ -45,8 +45,6 @@
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-blue" />
   <img alt="Bitbutket" src="https://img.shields.io/badge/-Bitbutket-blueviolet" />
 </h4> -->
-
-<br />
 
 <div>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=tokyonight&count_private=true"/>
