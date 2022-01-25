@@ -63,10 +63,11 @@
 </div>
 
 **Latest Projects 📚**
- - [FTP-Simulator App](https://github.com/huynhquangvinh01121999/FTPSimulator_Server)
- - [Chat-Together App](https://github.com/huynhquangvinh01121999/Server_ChatTogether)
+ - [Chat-With-Stranger App](https://github.com/huynhquangvinh01121999/Chat-With-Stranger)
+ - [FTP-Simulator Server App](https://github.com/huynhquangvinh01121999/FTPSimulator_Server) | [FTP-Simulator Client App](https://github.com/huynhquangvinh01121999/FTPSimulator_Client)
+ - [Chat-Together Server App](https://github.com/huynhquangvinh01121999/Server_ChatTogether) | [Chat-Together Client App](https://github.com/huynhquangvinh01121999/Client_ChatTogether)
  - [Listen-To-Music App](https://github.com/huynhquangvinh01121999/Music-Power-App)
- - [Social-Network App](https://github.com/huynhquangvinh01121999/Server_LifeFace-Social)
+ - [Social-Network Server App](https://github.com/huynhquangvinh01121999/Server_LifeFace-Social) | [Social-Network Client App](https://github.com/huynhquangvinh01121999/Client_LifeFace-Social)
  - [Messenger-Chat-Room App](https://github.com/huynhquangvinh01121999/Messenger-Chat-Room)
  - [Software Technology Project](https://github.com/huynhquangvinh01121999/ST-Subject)
 
