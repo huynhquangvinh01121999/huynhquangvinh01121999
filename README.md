@@ -3,8 +3,7 @@
 
 <h2>Skill & Programming Language</h2>
 
-<h3>FrontEnd: </h3> 
-<div>
+**Frontend 📱**</br>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-blueviolet" />
   <img alt="js" src="https://img.shields.io/badge/-Javascript-yellow" />
@@ -12,23 +11,18 @@
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJS-critical" />
   <img alt="angularjs" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-</div>
 
-<h3>BackEnd: </h3> 
-<div>
+**Backend 🛢**</br>
   <img alt=".NETCore" src="https://img.shields.io/badge/-.NET%20Core-blue" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-informational" />
-</div>
 
-<h3>Database: </h3> 
-<div>
+**Database 🛢**</br>
   <img alt="SQLserver" src="https://img.shields.io/badge/-SQL%20Server-yellow" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-yellowgreen" />
   <img alt="Sqlite3" src="https://img.shields.io/badge/-Sqlite3-red" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</div>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />>
 
 <!-- <h4>
 > Other Languages ​​used: 
