@@ -1,22 +1,5 @@
-<h2>
-<!--   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  -->
-  Hi there 👋</h2>
-
-
-<p>My name is Huynh Quang Vinh and I'm fullstack developer. I'm come from <b>Ho Chi Minh City, Viet Nam</b>
-<p>Contact with me by email: <b>huynhquangvinh01121999@gmail.com</b></p>
-<p>My portfolio: <b>https://huynhquangvinh01121999.github.io/myprofile/</b></p>
-
-<div>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=tokyonight"/> -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=huynhquangvinh01121999&theme=tokyonight" />
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=tokyonight"/>
-   </p>
-</div>
-
+<h1 align="center">Hi there, I'm a FullStack Developer <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+<h3 align="center">I'm come from <b>Ho Chi Minh City, Viet Nam</b></h3>
 
 <h2>Skill & Programming Language</h2>
 
@@ -69,16 +52,34 @@
   <img alt="Bitbutket" src="https://img.shields.io/badge/-Bitbutket-blueviolet" />
 </h4> -->
 
-<h2>MY PROJECTS</h2>
-<h3><b>Social Network App:</b></h3>
-<p><b>Server: </b>https://github.com/huynhquangvinh01121999/Server_LifeFace-Social</p>
-<p><b>Client: </b>https://github.com/huynhquangvinh01121999/Client_LifeFace-Social</p>
-<h3><b>Messenger Chat Room App: </b></h3><p>https://github.com/huynhquangvinh01121999/Messenger-Chat-Room</p>
-<h3><b>Listen To Music App: </b></h3><p>https://github.com/huynhquangvinh01121999/Music-Power-App</p>
-<h3><b>Chat Together App:</b></h3>
-<p><b>Server: </b>https://github.com/huynhquangvinh01121999/Server_ChatTogether</p>
-<p><b>Client: </b>https://github.com/huynhquangvinh01121999/Client_ChatTogether</p>
-<h3><b>Software Technology Project:</b></h3><p>https://github.com/huynhquangvinh01121999/ST-Subject</p>
-<h3><b>FTP_Simulator - Java Network Programming Project:</b></h3>
-<p><b>Server: </b>https://github.com/huynhquangvinh01121999/FTPSimulator_Server</p>
-<p><b>Client: </b>https://github.com/huynhquangvinh01121999/FTPSimulator_Client</p>
+<br />
+
+<div>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=tokyonight"/> -->
+<!--   <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=react"/>
+   </p> -->
+</div>
+
+**Latest Projects 📚**
+ - [FTP-Simulator App](https://github.com/huynhquangvinh01121999/FTPSimulator_Server)
+ - [Chat-Together App](https://github.com/huynhquangvinh01121999/Server_ChatTogether)
+ - [Listen-To-Music App](https://github.com/huynhquangvinh01121999/Music-Power-App)
+ - [Social-Network App](https://github.com/huynhquangvinh01121999/Server_LifeFace-Social)
+ - [Messenger-Chat-Room App](https://github.com/huynhquangvinh01121999/Messenger-Chat-Room)
+ - [Software Technology Project](https://github.com/huynhquangvinh01121999/ST-Subject)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&icon_color=ffb300&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhquangvinh01121999&icon_color=ffb300&theme=react" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhquangvinh01121999&title_color=1e88e5&theme=react" />
+</p>
+
+<p align="center"><i >Connect with me 🚀</i></p>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCtPMSuy0lIQ-UwKt1y-_Odg" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtPMSuy0lIQ-UwKt1y-_Odg?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/profile.php?id=100005918238295" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
