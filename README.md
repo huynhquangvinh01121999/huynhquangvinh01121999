@@ -8,9 +8,9 @@
   <img alt="css" src="https://img.shields.io/badge/-CSS-blueviolet" />
   <img alt="js" src="https://img.shields.io/badge/Javascript-yellow.svg?&style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/NextJS-black.svg?&style=flat-square&logo=next.js&logoColor=white" />
+<!--   <img alt="NextJs" src="https://img.shields.io/badge/NextJS-black.svg?&style=flat-square&logo=next.js&logoColor=white" />
   <img alt="angularjs" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
 
 **Backend 🛢**</br>
   <img alt=".NETCore" src="https://img.shields.io/badge/-.NET%20Core-blue" />
@@ -20,9 +20,9 @@
 **Database 🛢**</br>
   <img alt="SQLserver" src="https://img.shields.io/badge/-SQL%20Server-yellow" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-yellowgreen" />
-  <img alt="Sqlite3" src="https://img.shields.io/badge/-Sqlite3-red" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<!--   <img alt="Sqlite3" src="https://img.shields.io/badge/-Sqlite3-red" /> -->
+<!--   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-brightgreen" /> -->
 
 <!-- <h4>
 > Other Languages ​​used: 
