@@ -8,9 +8,9 @@
   <img alt="css" src="https://img.shields.io/badge/-CSS-blueviolet" />
   <img alt="js" src="https://img.shields.io/badge/Javascript-yellow.svg?&style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<!--   <img alt="NextJs" src="https://img.shields.io/badge/NextJS-black.svg?&style=flat-square&logo=next.js&logoColor=white" />
   <img alt="angularjs" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
+  <img alt="NextJs" src="https://img.shields.io/badge/NextJS-black.svg?&style=flat-square&logo=next.js&logoColor=white" />
+<!-- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
 
 **Backend 🛢**</br>
   <img alt=".NETCore" src="https://img.shields.io/badge/-.NET%20Core-blue" />
@@ -55,14 +55,14 @@
 </div>
 
 **Latest Projects 📚**
-- [Meta-Blog Server API](https://github.com/huynhquangvinh01121999/Meta-Blog-Server) | [Meta-Blog Client App](https://github.com/huynhquangvinh01121999/Meta-Blog-Client)
- - [Chat-With-Stranger App](https://github.com/huynhquangvinh01121999/Chat-With-Stranger)
+ - [Clean Architure in .NET Core](https://github.com/huynhquangvinh01121999/Lab.HRM.CleanArchitecture)
+ - [QR Code App](https://github.com/huynhquangvinh01121999/QRCode.Scanner)
  - [FTP-Simulator Socket Server](https://github.com/huynhquangvinh01121999/FTPSimulator_Server) | [FTP-Simulator Client App](https://github.com/huynhquangvinh01121999/FTPSimulator_Client)
- - [Chat-Together Server API](https://github.com/huynhquangvinh01121999/Server_ChatTogether) | [Chat-Together Client App](https://github.com/huynhquangvinh01121999/Client_ChatTogether)
- - [Listen-To-Music App](https://github.com/huynhquangvinh01121999/Music-Power-App)
- - [Social-Network Server API](https://github.com/huynhquangvinh01121999/Server_LifeFace-Social) | [Social-Network Client App](https://github.com/huynhquangvinh01121999/Client_LifeFace-Social)
- - [Messenger-Chat-Room App](https://github.com/huynhquangvinh01121999/Messenger-Chat-Room)
- - [Software Technology Project](https://github.com/huynhquangvinh01121999/ST-Subject)
+ - [Chat Together API](https://github.com/huynhquangvinh01121999/Server_ChatTogether) | [Chat Together Client](https://github.com/huynhquangvinh01121999/Client_ChatTogether)
+ - [Music App](https://github.com/huynhquangvinh01121999/Music-Power-App)
+ - [Social Network API](https://github.com/huynhquangvinh01121999/Server_LifeFace-Social) | [Social-Network Client](https://github.com/huynhquangvinh01121999/Client_LifeFace-Social)
+ - [Chat Room App](https://github.com/huynhquangvinh01121999/Messenger-Chat-Room)
+<!--  - [Software Technology Project](https://github.com/huynhquangvinh01121999/ST-Subject) -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&icon_color=ffb300&theme=react" />
