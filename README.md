@@ -64,13 +64,17 @@
  - [Chat Room App](https://github.com/huynhquangvinh01121999/Messenger-Chat-Room)
 <!--  - [Software Technology Project](https://github.com/huynhquangvinh01121999/ST-Subject) -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&icon_color=ffb300&theme=react" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhquangvinh01121999&icon_color=ffb300&theme=react" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhquangvinh01121999&title_color=1e88e5&theme=react" />
-</p>
+</p> -->
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=huynhquangvinh01121999&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center"><i >Connect with me 🚀</i></p>
 <p align="center">
