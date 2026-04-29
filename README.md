@@ -81,9 +81,9 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="center"><i >Connect with me 🚀</i></p>
+<!-- <p align="center"><i >Connect with me 🚀</i></p>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCtPMSuy0lIQ-UwKt1y-_Odg" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtPMSuy0lIQ-UwKt1y-_Odg?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=for-the-badge"></a>
   <a href="https://www.facebook.com/profile.php?id=100005918238295" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
   <a href="https://google.com/+huynhquangvinh01121999" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+</p> -->
