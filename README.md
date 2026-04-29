@@ -10,7 +10,7 @@
   <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/NextJS-black.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" />
-<!-- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> -->
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
 **Backend 🛢**</br>
   <img alt=".NETCore" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -52,11 +52,11 @@
   <img alt="redux" src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 
 <div>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=tokyonight"/> -->
-<!--   <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=tokyonight"/>
+ <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhquangvinh01121999&layout=compact&theme=react"/>
-   </p> -->
+   </p>
 </div>
 
 **Latest Projects 🔥**
