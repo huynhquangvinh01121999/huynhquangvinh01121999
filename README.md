@@ -1,3 +1,4 @@
+<--
 <h1 align="center">Hi there, I'm a FullStack Developer <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 
 <h2>Skill & Programming Language 🔥</h2>
@@ -68,7 +69,7 @@
  - [Social Network API](https://github.com/huynhquangvinh01121999/Server_LifeFace-Social) | [Social-Network Client](https://github.com/huynhquangvinh01121999/Client_LifeFace-Social)
  - [Chat Room App](https://github.com/huynhquangvinh01121999/Messenger-Chat-Room)
 <!--  - [Software Technology Project](https://github.com/huynhquangvinh01121999/ST-Subject) -->
-
+-->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huynhquangvinh01121999&show_icons=true&icon_color=ffb300&theme=react" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynhquangvinh01121999&icon_color=ffb300&theme=react" />
