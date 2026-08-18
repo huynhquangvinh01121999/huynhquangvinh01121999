@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anh Vinh
+# 👋 Hi, I'm Vinh
 
 **Software Engineer | Backend | Distributed Systems | Applied AI**
 
